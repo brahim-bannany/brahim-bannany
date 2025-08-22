@@ -1,11 +1,10 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?size=34&duration=3500&pause=400&vCenter=true&multiline=false&repeat=false&width=720&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Brahim+Bannany"
+    src="https://readme-typing-svg.demolab.com?size=34&duration=3000&pause=500&vCenter=true&multiline=false&repeat=true&width=720&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Brahim+Bannany;Software+Engineer|Full-Stack+Developer&animation=slide"
     alt="Hi, I'm Brahim Bannany"
   />
 </p>
 
----
 
 ## 🌟 About Me  
 🚀 **Full-Stack Developer** passionate about building scalable & innovative solutions.  
@@ -74,7 +73,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" height="36" style="border-radius:0;" />
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="36" style="border-radius:0;" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white&style=for-the-badge" height="36" style="border-radius:0;" />
-  <span>Data Analysis & ML Basics</span>
 </p>
 
 ---
